@@ -1,0 +1,9 @@
+numpy
+fastapi
+pydantic
+pickle
+json
+pandas
+sklearn
+tensorflow
+warnings
